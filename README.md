@@ -1,6 +1,6 @@
 ## Hey there, I'm Rohith Patil 👋
 
-🌐 Web Developer | 💻 Frontend & Full Stack Enthusiast 
+🌐 Frontend Web Developer | 💻  Full Stack Enthusiast 
 
 🔭 Exploring the depths of code to create delightful web experiences. My passion lies in crafting clean and responsive user interfaces that bring ideas to life.
 
