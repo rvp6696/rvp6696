@@ -14,7 +14,7 @@ I'm actively seeking entry-level opportunities to contribute my skills and enthu
 
 #### 📬 Get in Touch:
 
-- LinkedIn: <a href="https:/linkedin.com/in/rohithpatil96" target="_new"> Click Here </a>
+- LinkedIn: <a href="https://linkedin.com/in/rohithpatil96" target="_new"> Click Here </a>
 - Portfolio: <a href="https://rvp6696.github.io/portfolio-website/" target="_new"> Click Here </a>
 - Email: rvp6696@gmail.com
 - Twitter: <a href="https://twitter.com/alpha_geekster" target="_new"> Click Here </a>
