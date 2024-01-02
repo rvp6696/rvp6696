@@ -1,11 +1,3 @@
-<style>
-        img {
-                heigth: 100;
-                width: 100;
-                border-radius: 50&#37;
-        }
-</style>
-
 <h1 align="center">Hello World, I'm Rohith Patil</h1>
 
 <p align="center">
@@ -18,13 +10,13 @@
 <h2 align="center"> 💻 TECH STACK</h2>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" alt="Logo 1">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="Logo 2">
-  <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/7ca1b892-411f-4f4a-a5d3-82519495ae00/thumbnail?v=2023111916" alt="Logo 3">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNeXGXj4ct8h0MKHERuIV1NVOZ_y5yPR85A&usqp=CAU"  alt="Logo 4">
-  <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"  alt="Logo 5">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"  alt="Logo 6">
-  <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" alt="Logo 7">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="100" width="100" alt="html-logo">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="100" width="100" alt="css-logo">
+  <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/7ca1b892-411f-4f4a-a5d3-82519495ae00/thumbnail?v=2023111916" height="100" width="100" alt="JS-logo">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNeXGXj4ct8h0MKHERuIV1NVOZ_y5yPR85A&usqp=CAU" height="100" width="100"  alt="react-logo">
+  <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" height="100" width="100" alt="git-logo">
+  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="100" width="100" alt="github-logo">
+  <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" height="100" width="100" alt="vscode-logo">
 </div>
 
 
