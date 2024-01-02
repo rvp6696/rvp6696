@@ -10,13 +10,12 @@
 <h2 align="center"> 💻 TECH STACK</h2>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="100" width="100" alt="html-logo">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="100" width="100" alt="css-logo">
-  <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/7ca1b892-411f-4f4a-a5d3-82519495ae00/thumbnail?v=2023111916" height="100" width="100" alt="JS-logo">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNeXGXj4ct8h0MKHERuIV1NVOZ_y5yPR85A&usqp=CAU" height="100" width="100"  alt="react-logo">
-  <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" height="100" width="100" alt="git-logo">
-  <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="100" width="100" alt="github-logo">
-  <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png" height="100" width="100" alt="vscode-logo">
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="100" width="100" alt="html-logo"> &nbsp;&nbsp;
+  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="100" width="100" alt="css-logo"> &nbsp;&nbsp;
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="100" width="100" alt="JS-logo"> &nbsp;&nbsp;
+  <img src="https://www.pngmart.com/files/23/Reactjs-PNG-Pic.png" height="100" width="100"  alt="react-logo"> &nbsp;&nbsp;
+  <img src="https://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png" height="100" width="100" alt="git-logo"> &nbsp;&nbsp;
+  <img src="https://pngimg.com/d/github_PNG63.png" height="100" width="100" alt="github-logo">
 </div>
 
 
