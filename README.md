@@ -1,4 +1,4 @@
-### 👋 Hello World, I'm Rohith Patil 👋
+<h1 align="center">Hello World, I'm Rohith Patil</h1>
 
 I'm a passionate and creative Frontend Developer who loves turning ideas into reality through elegant and user-friendly interfaces. My journey into the world of coding started with a curiosity-driven exploration, and since then, I've been on a relentless quest to enhance my skills and contribute meaningfully to the ever-evolving web landscape.
 
