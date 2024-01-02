@@ -7,7 +7,7 @@
         ever-evolving web landscape.
 </p>
 
-#### 💻 Tech Stack:
+<h2 align="center"> 💻 TECH STACK</h2>
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks/Libraries:** React.js
