@@ -8,8 +8,20 @@
 </p>
 
 <h2 align="center"> 💻 TECH STACK</h2>
-
-<img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="100" width="100" style="border-radius: 50%;"/>
+<div style="display: flex; justify-content: center; gap: 30px;">
+        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="100" width="100"
+            style="border-radius: 50%;" />
+        <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="100" width="100"
+            style="border-radius: 50%;" />
+        <img src="https://imagedelivery.net/5MYSbk45M80qAwecrlKzdQ/7ca1b892-411f-4f4a-a5d3-82519495ae00/thumbnail?v=2023111916"
+            height="100" width="100" style="border-radius: 50%; background-size: cover;" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVNeXGXj4ct8h0MKHERuIV1NVOZ_y5yPR85A&usqp=CAU"
+            height="100" width="100" style="border-radius: 50%;" />
+        <img src="https://iconape.com/wp-content/png_logo_vector/git-icon.png" height="100" width="100" style="border-radius: 50%;" />
+        <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" height="100" width="100" style="border-radius: 50%;" />
+        <img src="https://www.pngitem.com/pimgs/m/80-800968_vscode-visual-studio-logo-png-transparent-png.png"
+            height="100" width="100" style="border-radius: 50%;" />
+</div>
 
 #### 🌟 Let's Connect!
 
