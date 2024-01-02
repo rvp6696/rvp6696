@@ -15,7 +15,7 @@
   <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="100" width="100" alt="JS-logo"> &nbsp;&nbsp;
   <img src="https://www.pngmart.com/files/23/Reactjs-PNG-Pic.png" height="100" width="100"  alt="react-logo"> &nbsp;&nbsp;
   <img src="https://p7.hiclipart.com/preview/705/814/337/github-repository-commit-bitbucket-github-thumbnail.jpg" height="100" width="100" alt="git-logo"> &nbsp;&nbsp;
-  <img src="https://pngimg.com/d/github_PNG67.png" height="100" width="100" alt="github-logo">
+  <img src="https://static-00.iconduck.com/assets.00/github-icon-512x497-oppthre2.png" height="100" width="100" alt="github-logo">
 </div>
 
 
