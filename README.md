@@ -21,11 +21,13 @@
 
 <h3 align="center"> 🤝 Let's Connect! </h3>
 
-
+<div>
+        
 <p align="center">
         I'm actively seeking entry-level opportunities to contribute my skills and enthusiasm to a dynamic team. If you're looking for a dedicated and fast-learning Frontend Developer, let's connect and explore how we can create amazing things together!
 
 </p>
+</div>
 
 
 
