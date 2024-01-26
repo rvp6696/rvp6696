@@ -10,13 +10,14 @@
 <h2 align="center"> 💻 TECH STACK</h2>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" height="100" width="100" alt="html-logo"> &nbsp;&nbsp;
-  <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" height="100" width="100" alt="css-logo"> &nbsp;&nbsp;
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="100" width="100" alt="JS-logo"> &nbsp;&nbsp;
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="100" width="110" alt="Bootstrap-logo"> &nbsp;&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-html-3628838-3030115.png?f=webp&w=256" height="100" width="100" alt="html-logo"> &nbsp;&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-css-alt-3521367-2944811.png?f=webp&w=256" height="100" width="100" alt="css-logo"> &nbsp;&nbsp;
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-javascript-3628858-3029998.png?f=webp&w=256" height="100" width="100" alt="JS-logo"> &nbsp;&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/bootstrap-5-logo-icon.png" height="100" width="120" alt="Bootstrap-logo"> &nbsp;&nbsp;
+  <img src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" height="100" width="100"  alt="react-logo"> &nbsp;&nbsp;
   <img src="https://www.pngmart.com/files/23/Reactjs-PNG-Pic.png" height="100" width="100"  alt="react-logo"> &nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" height="100" width="100" alt="git-logo"> &nbsp;&nbsp;
-  <img src="https://static-00.iconduck.com/assets.00/github-icon-512x497-oppthre2.png" height="100" width="100" alt="github-logo">
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-social-283-116317.png?f=webp&w=256" height="100" width="100" alt="github-logo">
 </div>
 
 
